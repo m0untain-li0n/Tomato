@@ -12,6 +12,11 @@ If you want to install this app, you can do it several ways:
 - Download the latest release from the releases section...
 - ...or clone the repository and build it yourself
 
+If you chose to install application bundle from release section, follow this steps:
+- Download `Tomato.zip` asset
+- Unpack it
+- Move the `Tomato.app` to applications
+
 ## Building
 First ensure that you have all the following dependencies installed:
 - macOS
